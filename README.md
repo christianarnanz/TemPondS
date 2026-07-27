@@ -1,8 +1,8 @@
-# TemPoPS  
+# TemPondS  
 **Temporary Ponds of Peninsular Spain**
 
 This repository provides the supporting data and materials associated with the data paper  
-**“TemPoPS (Temporary Ponds of Peninsular Spain): An Integrative Dataset Supporting Research and Conservation of an Endangered Habitat”** (DOI: *to be added*).  
+**“TemPondS (Temporary Ponds of Peninsular Spain): An Integrative Dataset Supporting Research and Conservation of an Endangered Habitat”** (DOI: *to be added*).  
 The contents are intended to ensure transparency, reproducibility, and reuse of the dataset.
 
 ---
@@ -57,4 +57,4 @@ The repository includes the following files and resources:
 
 ## Citation
 If you use this dataset, please cite the associated data paper:
-> Arnanz et al. (2026). *Temporary Ponds of Peninsular Spain (TemPoPS): An integrative dataset supporting research and conservation of an endangered habitat*. Journal / Repository. DOI.
+> Arnanz et al. (2026). *Temporary Ponds of Peninsular Spain (TemPondS): An integrative dataset supporting research and conservation of an endangered habitat*. Journal / Repository. DOI.
