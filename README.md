@@ -15,13 +15,13 @@ The repository includes the following files and resources:
 - **`TemPondS_V1.csv`**  
   Main dataset in CSV format (comma-separated, `.` as decimal separator).
 
-- **`TemPondS.kml`**  
+- **`TemPondS_V1.kml`**  
   Spatial representation of the main dataset in KML format for direct visualization in GIS.
 
 ---
 
 ### Metadata
-- **`Metadata_TemPondS_LO_Letters.RTF`**  
+- **`Metadata_TemPondS_LO_Letters.rtf`**  
   Metadata following the template of the journal Limnology & Oceanography Letters
 
 ---
