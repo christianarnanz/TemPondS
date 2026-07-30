@@ -12,28 +12,28 @@ The contents are intended to ensure transparency, reproducibility, and reuse of 
 The repository includes the following files and resources:
 
 ### Core dataset
-- **`Temporary_Ponds_of_Peninsular_Spain_V1.csv`**  
+- **`TemPondS_V1.csv`**  
   Main dataset in CSV format (comma-separated, `.` as decimal separator).
 
-- **`Temporary_Ponds_of_Peninsular_Spain_V1.kml`**  
+- **`TemPondS.kml`**  
   Spatial representation of the main dataset in KML format for direct visualization in GIS.
 
 ---
 
 ### Metadata
-- **`Temporary_Ponds_of_Peninsular_Spain_V0_eml.xml`**  
-  Full metadata record in Ecological Metadata Language (EML) format.
+- **`Metadata_TemPondS_LO_Letters.RTF`**  
+  Metadata following the template of the journal Limnology & Oceanography Letters
 
 ---
 
 ### Source documentation
-- **`MS_References_temporary_ponds_dataset.csv`**  
+- **`Supporting_Information_TemPondS.docx`**  
   Detailed list of all information sources used to construct the dataset, including download links (when available) and assigned source categories, as described in the Methods section of the data paper.
 
 ---
 
 ### Spatial data
-- **`Associated_polygons_Temporary_ponds_dataset_V1`**  
+- **`TemPondS_V1.gpkg`**  
   GeoPackage containing polygons derived from polygon-based sources. Individual ponds in the main dataset are linked to these polygons via identifier field "ID_POLYGON".
 
 ---
