@@ -21,7 +21,7 @@ The repository includes the following files and resources:
 ---
 
 ### Metadata
-- **`Metadata_TemPondS_LO_Letters.rtf`**  
+- **`TemPondS_Metadata.rtf`**  
   Metadata following the template of the journal Limnology & Oceanography Letters
 
 ---
